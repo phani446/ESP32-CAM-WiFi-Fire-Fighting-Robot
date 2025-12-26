@@ -36,5 +36,5 @@ pump based extinguishing system.
 - report → Project documentation
 
 ## 👨‍🎓 Author
-Panneeru Phanidhar  
+Panniru Phanidhar  
 ECE Mini Project
